@@ -178,8 +178,8 @@ header .logo-link {
 /* Estilos para o Carrossel (aplicável também na página de detalhes) */
 .carousel {
   position: relative;
-  max-width: 600px;
-  margin: 20px auto;
+  max-width: 785px;
+  margin: 10px auto;
 }
 
 .carousel img.main {
