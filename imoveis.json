@@ -247,8 +247,10 @@
     "valor": "R$ 1.200.000,00",
     "imagens": [
       "images/imovel8/imovel8_1.jpg",
-      "images/imovel8/imovel8_21.jpg",
       "images/imovel8/imovel8_22.jpg",
+      "images/imovel8/imovel8_21.jpg",
+      "images/imovel8/imovel8_20.jpg",
+      "images/imovel8/imovel8_9.jpg",
       "images/imovel8/imovel8_2.jpg",
       "images/imovel8/imovel8_3.jpg",
       "images/imovel8/imovel8_4.jpg",
@@ -256,7 +258,6 @@
       "images/imovel8/imovel8_6.jpg",
       "images/imovel8/imovel8_7.jpg",
       "images/imovel8/imovel8_8.jpg",
-      "images/imovel8/imovel8_9.jpg",
       "images/imovel8/imovel8_10.jpg",
       "images/imovel8/imovel8_11.jpg",
       "images/imovel8/imovel8_12.jpg",
@@ -266,8 +267,7 @@
       "images/imovel8/imovel8_16.jpg",
       "images/imovel8/imovel8_17.jpg",
       "images/imovel8/imovel8_18.jpg",
-      "images/imovel8/imovel8_19.jpg",
-      "images/imovel8/imovel8_20.jpg"
+      "images/imovel8/imovel8_19.jpg"
     ],
     "descricao_longa": [
       "Linda casa semi mobiliada super aconchegante no bairro Amizade, com piscina ampla e churrasqueira",
