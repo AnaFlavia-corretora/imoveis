@@ -89,9 +89,9 @@
       "Apresento á você uma chance imperdível de adquirir seu novo lar no Residencial Jardim de Gênova, com uma localização central que oferece praticidade e conforto.",
       "O residencial conta com áreas comuns que oferecem lazer e comodidade, incluindo piscina, salão de festas."
     ],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:10002."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:10003."
   },
-    {
+  {
     "id": "1004",
     "titulo": "Apartamento",
     "tipo": "Apartamento",
@@ -117,9 +117,9 @@
       "Apresento á você uma chance imperdível de adquirir seu novo lar no Residencial Jardim de Gênova, com uma localização central que oferece praticidade e conforto.",
       "O residencial conta com áreas comuns que oferecem lazer e comodidade, incluindo piscina, salão de festas."
     ],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:10002."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:10004."
   },
-    {
+  {
     "id": "1005",
     "titulo": "Apartamento",
     "tipo": "Apartamento",
@@ -154,9 +154,9 @@
       "Próximo à WEG, ao Mercado Rancho Bom e a escolas é um grande atrativo, especialmente para quem trabalha na WEG ou tem filhos em idade escolar.",
       "Semi mobiliado com móveis sob medida, ar condicionado nos comodos e ampla sacada com churrasqueira."
     ],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:10002."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:10005."
   },
-    {
+  {
     "id": "1006",
     "titulo": "Apartamento",
     "tipo": "Apartamento",
@@ -196,9 +196,9 @@
       "Semi mobiliado com móveis sob medida e ar condicionado central.",
       "Avalia-se permuta."
     ],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:10002."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:10006."
   },
-    {
+  {
     "id": "1007",
     "titulo": "Casa",
     "tipo": "Casa",
@@ -212,7 +212,7 @@
     "garagem": 2,
     "valor": "R$ 850.000,00",
     "imagens": [
-      "images/imovel7/imovel7_1.jpg",
+      "images/imovel7/imovel7_1.JPG",
       "images/imovel7/imovel7_2.jpg",
       "images/imovel7/imovel7_3.jpg",
       "images/imovel7/imovel7_4.jpg",
@@ -230,9 +230,9 @@
       "Cozinha com espaço funcional, sala de jantar, dois banheiros e mais um lavado.",
       "Avalia-se chácara até R$ 300.000,00 na negociação."
     ],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:10002."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:10007."
   },
-    {
+  {
     "id": "1008",
     "titulo": "Casa",
     "tipo": "Casa",
@@ -247,6 +247,8 @@
     "valor": "R$ 1.200.000,00",
     "imagens": [
       "images/imovel8/imovel8_1.jpg",
+      "images/imovel8/imovel8_21.jpg",
+      "images/imovel8/imovel8_22.jpg",
       "images/imovel8/imovel8_2.jpg",
       "images/imovel8/imovel8_3.jpg",
       "images/imovel8/imovel8_4.jpg",
@@ -262,7 +264,10 @@
       "images/imovel8/imovel8_14.jpg",
       "images/imovel8/imovel8_15.jpg",
       "images/imovel8/imovel8_16.jpg",
-      "images/imovel8/imovel8_17.jpg"
+      "images/imovel8/imovel8_17.jpg",
+      "images/imovel8/imovel8_18.jpg",
+      "images/imovel8/imovel8_19.jpg",
+      "images/imovel8/imovel8_20.jpg"
     ],
     "descricao_longa": [
       "Linda casa semi mobiliada super aconchegante no bairro Amizade, com piscina ampla e churrasqueira",
@@ -271,6 +276,6 @@
       "Sistema de geração de energia elétrica com placas solares.",
       "Avalia permuta até R$ 300.000,00."
     ],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:10002."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:10008."
   }
 ]
