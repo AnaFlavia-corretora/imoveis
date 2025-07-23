@@ -277,5 +277,38 @@
       "Avalia permuta até R$ 300.000,00."
     ],
     "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:10008."
+  },
+  {
+    "id": "1009",
+    "titulo": "Apartamento",
+    "tipo": "Apartamento",
+    "cod": "1009",
+    "localizacao": "Bairro Baependi",
+    "cidade": "Jaraguá Do Sul",
+    "area": " 63,84 m²",
+    "quartos": 2,
+    "suites": "-",
+    "banheiros": 1,
+    "garagem": 1,
+    "valor": "Sob consulta",
+    "imagens": [
+      "images/imovel9/imovel9_1.jfif",
+      "images/imovel9/imovel9_2.jfif",
+      "images/imovel9/imovel9_3.jfif",
+      "images/imovel9/imovel9_4.jfif",
+      "images/imovel9/imovel9_5.jfif",
+      "images/imovel9/imovel9_6.jfif",
+      "images/imovel9/imovel9_7.jfif",
+      "images/imovel9/imovel9_8.jfif",
+      "images/imovel9/imovel9_9.jfif",
+      "images/imovel9/imovel9_10.jfif",
+      "images/imovel9/imovel9_11.jfif",
+      "images/imovel9/imovel9_12.jfif",
+      "images/imovel9/imovel9_13.jfif",
+      "images/imovel9/imovel9_14.jfif",
+      "images/imovel9/imovel9_15.jfif"
+    ],
+    "descricao_longa": [""],
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:10009."
   }
 ]
