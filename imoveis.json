@@ -309,6 +309,37 @@
       "images/imovel9/imovel9_15.jfif"
     ],
     "descricao_longa": [""],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:10009."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1009."
+  },
+  {
+    "id": "1010",
+    "titulo": "Sobrado geminado",
+    "tipo": "Sobrado geminado",
+    "cod": "1010",
+    "localizacao": "Bairro São Luis",
+    "cidade": "Jaraguá Do Sul",
+    "area": " 137 m²",
+    "quartos": 2,
+    "suites": "1",
+    "banheiros": 2,
+    "garagem": 2,
+    "valor": "R$ 900.000,00",
+    "imagens": [
+      "images/imovel20/capa.jpeg",
+      "images/imovel20/12.jpeg",
+      "images/imovel20/11.jpeg",
+      "images/imovel20/10.jpeg",
+      "images/imovel20/09.jpeg",
+      "images/imovel20/02.jpeg",
+      "images/imovel20/01.jpeg",
+      "images/imovel20/03.jpeg",
+      "images/imovel20/04.jpeg",
+      "images/imovel20/05.jpeg",
+      "images/imovel20/06.jpeg",
+      "images/imovel20/07.jpeg",
+      "images/imovel20/08.jpeg"
+    ],
+    "descricao_longa": [""],
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1010."
   }
 ]
