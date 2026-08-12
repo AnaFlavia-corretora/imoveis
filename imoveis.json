@@ -389,4 +389,28 @@
       ],
     "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1011."
   }
+  {
+    "id": "1012",
+    "titulo": "Apartamento",
+    "tipo": "Apartamento",
+    "cod": "1012",
+    "localizacao": "Bairro João Pessoa",
+    "cidade": "Jaraguá Do Sul",
+    "area": " - m²",
+    "quartos": 2,
+    "suites": "-",
+    "banheiros": 1,
+    "garagem": 1,
+    "valor": "R$ 265.000,00",
+    "imagens": [
+      "images/imovel12/capa.jpeg",
+      "images/imovel12/02.jpeg",
+      "images/imovel12/03.jpeg",
+      "images/imovel12/04.jpeg",
+      "images/imovel12/05.jpeg",
+      "images/imovel12/06.jpeg"
+    ],
+    "descricao_longa": [""],
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1012."
+  }
 ]
