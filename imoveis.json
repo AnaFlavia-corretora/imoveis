@@ -341,5 +341,41 @@
     ],
     "descricao_longa": [""],
     "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1010."
+  },
+  {
+    "id": "1011",
+    "titulo": "Sobrado geminado",
+    "tipo": "Sobrado geminado",
+    "cod": "1011",
+    "localizacao": "Bairro Três Rios do Sul",
+    "cidade": "Jaraguá Do Sul",
+    "area": " 100 m²",
+    "quartos": 2,
+    "suites": "-",
+    "banheiros": 2,
+    "garagem": 2,
+    "valor": "R$ 510.000,00",
+    "imagens": [
+      "images/imovel11/capa.jpeg",
+      "images/imovel11/12.jpeg",
+      "images/imovel11/11.jpeg",
+      "images/imovel11/10.jpeg",
+      "images/imovel11/09.jpeg",
+      "images/imovel11/02.jpeg",
+      "images/imovel11/01.jpeg",
+      "images/imovel11/03.jpeg",
+      "images/imovel11/04.jpeg",
+      "images/imovel11/05.jpeg",
+      "images/imovel11/06.jpeg",
+      "images/imovel11/07.jpeg",
+      "images/imovel11/08.jpeg",
+      "images/imovel11/09.jpeg",
+      "images/imovel11/10.jpeg",
+      "images/imovel11/11.jpeg",
+      "images/imovel11/12.jpeg",
+      "images/imovel11/13.jpeg"
+    ],
+    "descricao_longa": [""],
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1010."
   }
 ]
