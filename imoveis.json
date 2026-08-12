@@ -396,7 +396,7 @@
     "cod": "1012",
     "localizacao": "Bairro João Pessoa",
     "cidade": "Jaraguá Do Sul",
-    "area": " - m²",
+    "area": " 40 m²",
     "quartos": 2,
     "suites": "-",
     "banheiros": 1,
@@ -410,7 +410,12 @@
       "images/imovel12/05.jfif",
       "images/imovel12/06.jfif"
     ],
-    "descricao_longa": [""],
+    "descricao_longa": [
+      "Cozinha sob medida",
+      "Lavanderia sob medida",
+      "Banheiro com armário e box de vidro",
+      "Apartamento recém reformado"
+    ],
     "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1012."
   }
 ]
