@@ -417,5 +417,31 @@
       "Apartamento recém reformado"
     ],
     "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1012."
+  },
+  {
+    "id": "1013",
+    "titulo": "Apartamento",
+    "tipo": "Apartamento",
+    "cod": "1013",
+    "localizacao": "Bairro Centenário",
+    "cidade": "Jaraguá Do Sul",
+    "area": " -- m²",
+    "quartos": 2,
+    "suites": "-",
+    "banheiros": 1,
+    "garagem": 1,
+    "valor": "R$ 340.000,00",
+    "imagens": [
+      "images/imovel13/01.jfif",
+      "images/imovel13/02.png",
+      "images/imovel13/03.png"
+    ],
+    "descricao_longa": [
+      "Ficam os moveis da cozinha",
+      "Mesa e cadeiras da sala de jantar",
+      "Banheiro com armários e box de vidro",
+      "Sofá e rack na sala."
+    ],
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1013."
   }
 ]
