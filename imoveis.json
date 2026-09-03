@@ -444,5 +444,38 @@
       "sofá e rack na sala."
     ],
     "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1013."
+  },
+  {
+    "id": "1014",
+    "titulo": "Apartamento",
+    "tipo": "Apartamento",
+    "cod": "1014",
+    "localizacao": "Bairro Ilha da Figueira",
+    "cidade": "Jaraguá Do Sul",
+    "area": " 57 m²",
+    "quartos": 2,
+    "suites": "-",
+    "banheiros": 1,
+    "garagem": 1,
+    "valor": "R$ 340.000,00",
+    "imagens": [
+      "images/imovel14/01.png",
+      "images/imovel14/02.jfif",
+      "images/imovel14/03.jfif",
+      "images/imovel14/04.jfif",
+      "images/imovel14/05.jfif",
+      "images/imovel14/06.jfif",
+      "images/imovel14/07.jfif"
+    ],
+    "descricao_longa": [
+      "02 Dormitórios,"
+      "01 Banheiro,"
+      "Cozinha planejada,"
+      "Sala de estar e jantar conjugadas",
+      "Sacada com churrasqueira,"
+      "Area de serviço,"
+      "01 vaga de garagem coberta."
+    ],
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1014."
   }
 ]
