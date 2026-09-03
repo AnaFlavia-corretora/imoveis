@@ -426,9 +426,9 @@
     "localizacao": "Bairro Centenário",
     "cidade": "Jaraguá Do Sul",
     "area": " -- m²",
-    "quartos": 2,
-    "suites": "-",
-    "banheiros": 1,
+    "quartos": 1,
+    "suites": 1,
+    "banheiros": 2,
     "garagem": 1,
     "valor": "R$ 330.000,00",
     "imagens": [
