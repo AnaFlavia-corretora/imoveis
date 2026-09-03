@@ -2,7 +2,6 @@ document.addEventListener("DOMContentLoaded", () => {
   fetch("imoveis.json")
     .then((res) => {
       if (!res.ok) {
-        // Verifica se a resposta da rede foi bem-sucedida (status 200 OK)
         throw new Error(`HTTP error! status: ${res.status}`);
       }
       return res.json();
@@ -17,6 +16,15 @@ document.addEventListener("DOMContentLoaded", () => {
       imoveis.forEach((imovel) => {
         const card = document.createElement("div");
         card.className = "imovel-card";
+
+        // Monta o item HTML de suítes apenas se houver suítes cadastradas e > 0
+        const suitesHTML = (imovel.suites && imovel.suites > 0)
+          ? `<div class="imovel-icon-item">
+               <img src="icons/quarto.svg" alt="Ícone de Suítes" />
+               <p>${imovel.suites} suíte${imovel.suites > 1 ? 's' : ''}</p>
+             </div>`
+          : '';
+
         card.innerHTML = `
           <a href="detalhes-imovel.html?id=${imovel.id}">
             <img src="${imovel.imagens[0]}" alt="${imovel.titulo}" class="imovel-card-image">
@@ -38,6 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <img src="icons/quarto.svg" alt="Ícone de Quartos" />
                 <p>${imovel.quartos}</p>
               </div>
+              ${suitesHTML}
               <div class="imovel-icon-item">
                 <img src="icons/banheiro.svg" alt="Ícone de Banheiros" />
                 <p>${imovel.banheiros}</p>
