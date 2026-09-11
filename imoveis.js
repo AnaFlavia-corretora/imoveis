@@ -13,7 +13,10 @@ document.addEventListener("DOMContentLoaded", () => {
         return;
       }
 
-      imoveis.forEach((imovel) => {
+      // Filtra apenas os imóveis com ativo === true
+      const imoveisAtivos = imoveis.filter((imovel) => imovel.ativo !== false);
+
+      imoveisAtivos.forEach((imovel) => {
         const card = document.createElement("div");
         card.className = "imovel-card";
 
@@ -27,12 +30,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
         card.innerHTML = `
           <a href="detalhes-imovel.html?id=${imovel.id}">
-            <img src="${imovel.imagens[0]}" alt="${imovel.titulo}" class="imovel-card-image">
+            <img src="${imovel.imagens[0]}" alt="${imovel.tipo}" class="imovel-card-image">
           </a>
           <div class="imovel-card-content">
             <h3>${imovel.tipo}</h3>
             <div class="imovel-details">
-              <p><span class="cod">Cód:</span> ${imovel.cod}</p>
+              <p><span class="cod">Cód:</span> ${imovel.id}</p>
               <div class="imovel-location">
                 ${imovel.localizacao}<span>${imovel.cidade}</span>
               </div>

@@ -1,9 +1,7 @@
 [
   {
     "id": "1001",
-    "titulo": "Casa",
     "tipo": "Casa",
-    "cod": "1001",
     "localizacao": "Amizade",
     "cidade": "Jaraguá Do Sul",
     "area": "- m²",
@@ -27,13 +25,12 @@
       "Possui excelente iluminação natural, amplo espaço gourmet e área de lazer com piscina.",
       "Documentação em dia, pronta para financiamento bancário."
     ],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1001."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref: 1001."
   },
   {
     "id": "1002",
-    "titulo": "Ponto comercial",
+    "ativo": false,
     "tipo": "Ponto comercial",
-    "cod": "1002",
     "localizacao": "Czerniewicz",
     "cidade": "Jaraguá Do Sul",
     "area": "- m²",
@@ -61,13 +58,11 @@
       "escritório de advocacia ou consultório.",
       "Locação do prédio valor: R$ 3.240,00."
     ],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1002."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref: 1002."
   },
   {
     "id": "1003",
-    "titulo": "Apartamento",
     "tipo": "Apartamento",
-    "cod": "1003",
     "localizacao": "Jaraguá Esquerdo",
     "cidade": "Jaraguá Do Sul",
     "area": "38,4 m²",
@@ -89,13 +84,11 @@
       "Apresento á você uma chance imperdível de adquirir seu novo lar no Residencial Jardim de Gênova, com uma localização central que oferece praticidade e conforto.",
       "O residencial conta com áreas comuns que oferecem lazer e comodidade, incluindo piscina, salão de festas."
     ],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1003."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref: 1003."
   },
   {
     "id": "1004",
-    "titulo": "Apartamento",
     "tipo": "Apartamento",
-    "cod": "1004",
     "localizacao": "Vila Lalau",
     "cidade": "Jaraguá Do Sul",
     "area": "81,4 m²",
@@ -117,13 +110,11 @@
       "Apresento á você uma chance imperdível de adquirir seu novo lar no Residencial Jardim de Gênova, com uma localização central que oferece praticidade e conforto.",
       "O residencial conta com áreas comuns que oferecem lazer e comodidade, incluindo piscina, salão de festas."
     ],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1004."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref: 1004."
   },
   {
     "id": "1005",
-    "titulo": "Apartamento",
     "tipo": "Apartamento",
-    "cod": "1005",
     "localizacao": "Vieiras",
     "cidade": "Jaraguá Do Sul",
     "area": "- m²",
@@ -154,13 +145,11 @@
       "Próximo à WEG, ao Mercado Rancho Bom e a escolas é um grande atrativo, especialmente para quem trabalha na WEG ou tem filhos em idade escolar.",
       "Semi mobiliado com móveis sob medida, ar condicionado nos comodos e ampla sacada com churrasqueira."
     ],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1005."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref: 1005."
   },
   {
     "id": "1006",
-    "titulo": "Apartamento",
     "tipo": "Apartamento",
-    "cod": "1006",
     "localizacao": "Jaraguá Esquerdo",
     "cidade": "Jaraguá Do Sul",
     "area": " 136 m²",
@@ -196,13 +185,11 @@
       "Semi mobiliado com móveis sob medida e ar condicionado central.",
       "Avalia-se permuta."
     ],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1006."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref: 1006."
   },
   {
     "id": "1007",
-    "titulo": "Casa",
     "tipo": "Casa",
-    "cod": "1007",
     "localizacao": "Ilha da Figueira",
     "cidade": "Jaraguá Do Sul",
     "area": "- m²",
@@ -230,13 +217,12 @@
       "Cozinha com espaço funcional, sala de jantar, dois banheiros e mais um lavado.",
       "Avalia-se chácara até R$ 300.000,00 na negociação."
     ],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1007."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref: 1007."
   },
   {
     "id": "1008",
-    "titulo": "Casa",
+    "ativo": false,
     "tipo": "Casa",
-    "cod": "1008",
     "localizacao": "Bairro Amizade",
     "cidade": "Jaraguá Do Sul",
     "area": " 235,32 m²",
@@ -276,13 +262,11 @@
       "Sistema de geração de energia elétrica com placas solares.",
       "Avalia permuta até R$ 300.000,00."
     ],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1008."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref: 1008."
   },
   {
     "id": "1009",
-    "titulo": "Apartamento",
     "tipo": "Apartamento",
-    "cod": "1009",
     "localizacao": "Bairro Baependi",
     "cidade": "Jaraguá Do Sul",
     "area": " 63,84 m²",
@@ -309,13 +293,11 @@
       "images/imovel9/imovel9_15.jfif"
     ],
     "descricao_longa": [""],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1009."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref: 1009."
   },
   {
     "id": "1010",
-    "titulo": "Sobrado geminado",
     "tipo": "Sobrado geminado",
-    "cod": "1010",
     "localizacao": "Bairro São Luis",
     "cidade": "Jaraguá Do Sul",
     "area": " 137 m²",
@@ -340,13 +322,11 @@
       "images/imovel10/08.jpeg"
     ],
     "descricao_longa": [""],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1010."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref: 1010."
   },
   {
     "id": "1011",
-    "titulo": "Sobrado geminado",
     "tipo": "Sobrado geminado",
-    "cod": "1011",
     "localizacao": "Bairro Três Rios do Sul",
     "cidade": "Jaraguá Do Sul",
     "area": " 100 m²",
@@ -387,13 +367,11 @@
       "Pergolado na garagem",
       "Sistema de energia solar instalado"
       ],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1011."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref: 1011."
   },
   {
     "id": "1012",
-    "titulo": "Apartamento",
     "tipo": "Apartamento",
-    "cod": "1012",
     "localizacao": "Bairro João Pessoa",
     "cidade": "Jaraguá Do Sul",
     "area": " 40 m²",
@@ -416,13 +394,11 @@
       "Banheiro com armário e box de vidro",
       "Apartamento recém reformado"
     ],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1012."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref: 1012."
   },
   {
     "id": "1013",
-    "titulo": "Apartamento",
     "tipo": "Apartamento",
-    "cod": "1013",
     "localizacao": "Bairro Centenário",
     "cidade": "Jaraguá Do Sul",
     "area": " -- m²",
@@ -443,13 +419,11 @@
       "armários do banheiro, box de vidro,",
       "sofá e rack na sala."
     ],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1013."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref: 1013."
   },
   {
     "id": "1014",
-    "titulo": "Apartamento",
     "tipo": "Apartamento",
-    "cod": "1014",
     "localizacao": "Bairro Ilha da Figueira",
     "cidade": "Jaraguá Do Sul",
     "area": " 57 m²",
@@ -476,6 +450,6 @@
       "Area de serviço,",
       "01 vaga de garagem coberta."
     ],
-    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref:1014."
+    "whatsapp_link": "https://wa.me/5547991175167?text=Olá! Tenho interesse no imóvel, Ref: 1014."
   }
 ]

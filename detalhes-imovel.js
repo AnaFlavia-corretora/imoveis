@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       // Preencher informações gerais
       document.getElementById("detalhe-titulo").textContent =
-        imovel.titulo + " por " + imovel.valor;
+        imovel.tipo + " por " + imovel.valor;
       document.getElementById(
         "detalhe-localizacao"
       ).textContent = `${imovel.localizacao} - ${imovel.cidade}`;
